@@ -1,0 +1,165 @@
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2026-01-18T15:21:29.626Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2026-01-18T15:21:29.627Z] > authorizing via signed-in user (mohamedmagdy215299@gmail.com)
+[debug] [2026-01-18T15:21:29.629Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.629Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.630Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2026-01-18T15:21:29.630Z] > authorizing via signed-in user (mohamedmagdy215299@gmail.com)
+[debug] [2026-01-18T15:21:29.631Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.631Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.633Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo [none]
+[debug] [2026-01-18T15:21:29.691Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo [none]
+[debug] [2026-01-18T15:21:29.901Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo 200
+[debug] [2026-01-18T15:21:29.905Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo {"name":"projects/sebha-b3bcb/billingInfo","projectId":"sebha-b3bcb","billingAccountName":"","billingEnabled":false}
+[debug] [2026-01-18T15:21:29.925Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.926Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.927Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.927Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.927Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.927Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.928Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.928Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.929Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.929Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.930Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.930Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.930Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.931Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.973Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.976Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.976Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.976Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:29.977Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firestore.googleapis.com [none]
+[debug] [2026-01-18T15:21:29.977Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firestore.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:29.984Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/storage.googleapis.com [none]
+[debug] [2026-01-18T15:21:29.985Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/storage.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:29.990Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-01-18T15:21:29.990Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:29.993Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/identitytoolkit.googleapis.com [none]
+[debug] [2026-01-18T15:21:29.993Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:29.997Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/fcm.googleapis.com [none]
+[debug] [2026-01-18T15:21:29.997Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/fcm.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.001Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/cloudfunctions.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.001Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.004Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.005Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.009Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseapphosting.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.009Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.013Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseio.com [none]
+[debug] [2026-01-18T15:21:30.013Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseio.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.066Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo 200
+[debug] [2026-01-18T15:21:30.069Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo {"name":"projects/sebha-b3bcb/billingInfo","projectId":"sebha-b3bcb","billingAccountName":"","billingEnabled":false}
+[debug] [2026-01-18T15:21:30.073Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.074Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.074Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.074Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.075Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.075Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.075Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.075Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.076Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.076Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.076Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.076Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.076Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.079Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.093Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.093Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.094Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.094Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:30.095Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firestore.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.095Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firestore.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.099Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/storage.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.099Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/storage.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.103Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.103Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.106Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/identitytoolkit.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.107Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.109Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/fcm.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.109Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/fcm.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.111Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/cloudfunctions.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.111Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.113Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.113Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.115Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseapphosting.googleapis.com [none]
+[debug] [2026-01-18T15:21:30.115Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.117Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseio.com [none]
+[debug] [2026-01-18T15:21:30.117Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseio.com x-goog-quota-user=projects/sebha-b3bcb
+[debug] [2026-01-18T15:21:30.811Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseio.com 403
+[debug] [2026-01-18T15:21:30.811Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseio.com [omitted]
+[debug] [2026-01-18T15:21:30.843Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2026-01-18T15:21:30.843Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:30.906Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/fcm.googleapis.com 200
+[debug] [2026-01-18T15:21:30.907Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/fcm.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:30.923Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseio.com 403
+[debug] [2026-01-18T15:21:30.923Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseio.com [omitted]
+[debug] [2026-01-18T15:21:30.927Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/storage.googleapis.com 200
+[debug] [2026-01-18T15:21:30.927Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/storage.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:30.938Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseapphosting.googleapis.com 200
+[debug] [2026-01-18T15:21:30.938Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:30.941Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-01-18T15:21:30.942Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:30.945Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firestore.googleapis.com 200
+[debug] [2026-01-18T15:21:30.945Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firestore.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:30.986Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/cloudfunctions.googleapis.com 200
+[debug] [2026-01-18T15:21:30.986Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:30.987Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2026-01-18T15:21:30.987Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:31.004Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/cloudfunctions.googleapis.com 200
+[debug] [2026-01-18T15:21:31.005Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:31.008Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/fcm.googleapis.com 200
+[debug] [2026-01-18T15:21:31.008Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/fcm.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:31.024Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/identitytoolkit.googleapis.com 200
+[debug] [2026-01-18T15:21:31.024Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:31.048Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/identitytoolkit.googleapis.com 200
+[debug] [2026-01-18T15:21:31.052Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/identitytoolkit.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2026-01-18T15:21:31.070Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2026-01-18T15:21:31.071Z] > authorizing via signed-in user (mohamedmagdy215299@gmail.com)
+[debug] [2026-01-18T15:21:31.071Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:31.071Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:31.071Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo [none]
+[debug] [2026-01-18T15:21:31.076Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-01-18T15:21:31.077Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:31.081Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/storage.googleapis.com 200
+[debug] [2026-01-18T15:21:31.081Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/storage.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:31.090Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firestore.googleapis.com 200
+[debug] [2026-01-18T15:21:31.091Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firestore.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:31.103Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseapphosting.googleapis.com 200
+[debug] [2026-01-18T15:21:31.104Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/sebha-b3bcb/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2026-01-18T15:21:31.211Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo 200
+[debug] [2026-01-18T15:21:31.212Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo {"name":"projects/sebha-b3bcb/billingInfo","projectId":"sebha-b3bcb","billingAccountName":"","billingEnabled":false}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2026-01-18T15:21:31.219Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2026-01-18T15:21:31.219Z] > authorizing via signed-in user (mohamedmagdy215299@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2026-01-18T15:21:31.258Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2026-01-18T15:21:31.259Z] > authorizing via signed-in user (mohamedmagdy215299@gmail.com)
+[debug] [2026-01-18T15:21:31.259Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:31.259Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:31.259Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo [none]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2026-01-18T15:21:31.267Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2026-01-18T15:21:31.268Z] > authorizing via signed-in user (mohamedmagdy215299@gmail.com)
+[debug] [2026-01-18T15:21:31.270Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:31.270Z] Checked if tokens are valid: true, expires at: 1768751567448
+[debug] [2026-01-18T15:21:31.270Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo [none]
+[debug] [2026-01-18T15:21:31.489Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo 200
+[debug] [2026-01-18T15:21:31.489Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo {"name":"projects/sebha-b3bcb/billingInfo","projectId":"sebha-b3bcb","billingAccountName":"","billingEnabled":false}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2026-01-18T15:21:31.501Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2026-01-18T15:21:31.501Z] > authorizing via signed-in user (mohamedmagdy215299@gmail.com)
+[debug] [2026-01-18T15:21:31.506Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo 200
+[debug] [2026-01-18T15:21:31.506Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/sebha-b3bcb/billingInfo {"name":"projects/sebha-b3bcb/billingInfo","projectId":"sebha-b3bcb","billingAccountName":"","billingEnabled":false}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2026-01-18T15:21:31.513Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2026-01-18T15:21:31.514Z] > authorizing via signed-in user (mohamedmagdy215299@gmail.com)
